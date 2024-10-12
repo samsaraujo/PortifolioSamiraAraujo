@@ -34,7 +34,7 @@ const Hero = () => {
                   <img src={github} alt="Github Icon" /></a>
                 </span>
                 <span>
-                <p className={styles.description}>I'm Samira Araujo, a Full-Stack Developer in training. I enjoy creating websites for businesses, combining a robust backend with an elegant and responsive frontend.</p>
+                <p className={styles.description}>I'm Samira Araujo, a Full Stack Developer in training, currently pursuing degrees in Software Engineering and Electrical Engineering. Discover more about my experience and feel free to reach out.</p>
                 </span>
                 <span>
                 <a href={CV} download>

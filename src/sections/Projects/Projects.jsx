@@ -21,12 +21,12 @@ function Projects() {
           h3="Procurando Um Evento?"
           p="Events Website"
         />
-        <ProjectCard
+        {/* <ProjectCard
           src={joias}
           link="/"
           h3="Joias"
           p="Joias"
-        />
+        /> */}
       </div>
     </section>
   );
