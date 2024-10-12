@@ -12,18 +12,14 @@ hr {
   background-color: var(--text-color);
   margin: 30px auto;
 }
-a {
-  text-decoration: none;
-  color: inherit; /* Mantém a cor do texto como a cor do texto ao redor */
-}
 
 @media (width >= 800px) {
-  p {
-    font-size: 20px;
+    p {
+      font-size: 20px;
+    }
   }
-}
 
-hr {
-  width: 300px;
-}
+  hr {
+    width: 300px;
+  }
 

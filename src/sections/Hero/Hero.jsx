@@ -33,10 +33,17 @@ const Hero = () => {
                   <a href="https://github.com/samsaraujo" target='_blank'>
                   <img src={github} alt="Github Icon" /></a>
                 </span>
+                <span>
                 <p className={styles.description}>I'm Samira Araujo, a Full-Stack Developer in training. I enjoy creating websites for businesses, combining a robust backend with an elegant and responsive frontend.</p>
+                </span>
+                <span>
                 <a href={CV} download>
-                  <button className='hover'>Resume</button>
+                  <button className='hover'>Resume (EN)</button>
                 </a>
+                <a href={CV} download>
+                  <button className='hover'>Resume (PT)</button>
+                </a>
+                </span>
             </div>
         </section>
     </div>
