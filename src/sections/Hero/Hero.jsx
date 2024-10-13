@@ -6,7 +6,8 @@ import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
-import CV from '../../assets/cv.pdf'
+import CV_PT from '../../assets/CV_PT.pdf'
+import CV_EN from '../../assets/CV_EN.pdf'
 import { useTheme } from '../../common/ThemeContext'
 
 
@@ -37,10 +38,10 @@ const Hero = () => {
                 <p className={styles.description}>I'm Samira Araujo, a Full Stack Developer in training, currently pursuing degrees in Software Engineering and Electrical Engineering. Discover more about my experience and feel free to reach out.</p>
                 </span>
                 <span>
-                <a href={CV} download>
+                <a href={CV_EN} download>
                   <button className='hover'>Resume (EN)</button>
                 </a>
-                <a href={CV} download>
+                <a href={CV_PT} download>
                   <button className='hover'>Resume (PT)</button>
                 </a>
                 </span>
