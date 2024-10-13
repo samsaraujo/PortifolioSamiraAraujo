@@ -9,7 +9,7 @@ function Contact() {
       <p><a href="mailto:samiraaraujo119@gmail.com">samiraaraujo119@gmail.com</a></p>
       <hr />
       <h2>Phone</h2>
-      <p><a href="tel:+5588994731366">(88)994731366</a></p>
+      <p><a href="https://wa.me/5588994731366" target="_blank">(88)994731366</a></p>
 
       </div>
     </section>
