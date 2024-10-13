@@ -5,11 +5,9 @@ function Contact() {
     <section id="contact" className={styles.container}>
       <h1 className="sectionTitle">Contact</h1>
       <div>
-      <h2>Email</h2>
-      <p><a href="mailto:samiraaraujo119@gmail.com">samiraaraujo119@gmail.com</a></p>
+      <p>EMAIL: <a href="mailto:samiraaraujo119@gmail.com">samiraaraujo119@gmail.com</a></p>
       <hr />
-      <h2>Phone</h2>
-      <p><a href="https://wa.me/5588994731366" target="_blank">(88)994731366</a></p>
+      <p>PHONE: <a href="https://wa.me/5588994731366" target="_blank">(88)994731366</a></p>
 
       </div>
     </section>
