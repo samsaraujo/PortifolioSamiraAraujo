@@ -5,7 +5,7 @@ function Footer() {
     <section id="footer" className={styles.container}>
       <p>
         &copy; 2024 Samira Araujo. <br />
-        Todos os direitos reservados.
+        All rights reserved.
       </p>
     </section>
   );
