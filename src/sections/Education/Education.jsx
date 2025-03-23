@@ -17,7 +17,7 @@ function Education() {
       <div>
         <h2>Electrical Engineering</h2>
         <p>Universidade Federal do Ceará - Campus Sobral</p>
-        <p>2016 - Present</p>
+        <p>2016 - 2025</p>
       </div>
     </section>
   );
