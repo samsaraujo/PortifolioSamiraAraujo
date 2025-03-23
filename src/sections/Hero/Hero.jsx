@@ -6,8 +6,8 @@ import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
-import CV_PT from '../../assets/CV_PT_Samira.pdf'
-import CV_EN from '../../assets/CV_EN_Samira.pdf'
+import CV_PT from '../../assets/Curriculo_Dev_SamiraAraújodosSantosPT.pdf'
+import CV_EN from '../../assets/Curriculo_Dev_SamiraAraújodosSantosEN.pdf'
 import { useTheme } from '../../common/ThemeContext'
 
 
