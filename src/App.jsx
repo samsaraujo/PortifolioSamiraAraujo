@@ -5,6 +5,7 @@ import Hero from './sections/Hero/Hero';
 import Projects from './sections/Projects/Projects';
 import Skills from './sections/Skills/Skills';
 import Education from './sections/Education/Education'
+import Language from './sections/Language/Language'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Education />
       <Projects />
       <Skills />
+      <Language />
       <Contact />
       <Footer />
     </>
