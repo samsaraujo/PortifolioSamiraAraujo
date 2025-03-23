@@ -22,7 +22,6 @@ function Skills() {
       <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="French: Basic" />
       </div>
-      <hr />
     
       
     </section>
